@@ -1,0 +1,38 @@
+# Core dependencies
+python-dotenv==1.0.1
+openai==1.52.0
+
+# Memgraph
+gqlalchemy==1.8.0
+neo4j==5.25.0
+
+# PDF Processing
+pymupdf==1.24.10
+pdfplumber==0.11.4
+
+# Data Processing
+pandas==2.2.3
+numpy==1.26.4
+
+# API
+fastapi==0.115.0
+uvicorn==0.31.0
+pydantic==2.9.2
+
+# Streamlit UI
+streamlit==1.38.0
+
+# Text Processing
+tiktoken==0.7.0
+langchain==0.3.3
+langchain-openai==0.2.2
+langchain-community==0.3.2
+
+# Testing & Development
+pytest==8.3.3
+jupyter==1.1.1
+ipykernel==6.29.5
+
+# Progress bars
+tqdm==4.66.5
+rich==13.9.1

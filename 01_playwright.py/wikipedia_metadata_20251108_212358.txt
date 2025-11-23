@@ -1,0 +1,82 @@
+============================================================
+METADATA EXTRACTION REPORT
+============================================================
+
+Website: https://www.thehindu.com
+Extracted on: 2025-11-08 21:23:58
+
+============================================================
+
+[PAGE TITLE]
+Wikisource, the free library
+
+[CURRENT URL]
+https://en.wikisource.org/wiki/Main_Page
+
+============================================================
+[STANDARD META TAGS]
+============================================================
+
+generator:
+  MediaWiki 1.46.0-wmf.1
+
+referrer:
+  origin
+
+referrer:
+  origin-when-cross-origin
+
+robots:
+  max-image-preview:standard
+
+format-detection:
+  telephone=no
+
+viewport:
+  width=1120
+
+og:title:
+  Wikisource, the free library
+
+og:type:
+  website
+
+============================================================
+[OPEN GRAPH (OG) TAGS]
+============================================================
+
+og:title:
+  Wikisource, the free library
+
+og:type:
+  website
+
+============================================================
+[TWITTER CARD TAGS]
+============================================================
+
+============================================================
+[CHARACTER ENCODING]
+============================================================
+
+Charset: UTF-8
+Viewport: width=1120
+
+============================================================
+[LINK TAGS]
+============================================================
+
+Canonical URL:
+  https://en.wikisource.org/wiki/Main_Page
+
+Alternate Links:
+  Type (application/atom+xml): /w/index.php?title=Special:RecentChanges&feed=atom
+
+============================================================
+[ADDITIONAL PAGE INFO]
+============================================================
+
+H1 Headings (1):
+  1. Main Page
+
+HTML Language: en
